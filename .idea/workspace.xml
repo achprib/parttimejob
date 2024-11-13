@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5dedb731-ea48-4db1-b879-ad6ad659c620" name="Changes" comment="" />
+    <list id="84155485-b725-4ad0-84cc-5d0b058e9dd9" name="noChanges" comment="noChanges" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.9.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/PartTimeJobManage/package.json" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mhgd9vmUJ9NFbm1zsIGopwP0o0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.PartTimeJobServer [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.PartTimeJobServer [install].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.JianzhiApplication.executor&quot;: &quot;Run&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/web_class/books-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.Manage-后台管理.executor&quot;: &quot;Run&quot;,
+    &quot;npm.Porta-前台管理.executor&quot;: &quot;Run&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\java\\IntelliJ IDEA 2023.3.6\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\0000-2024-Project\2024-0002-学生兼职\PartTimeJob\PartTimeJobManage\src\utils" />
+      <recent name="E:\0000-2024-Project\2024-0002-学生兼职\PartTimeJob\PartTimeJobServer\src\main\resources\mapper\xml" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\0000-2024-Project\2024-0002-学生兼职\PartTimeJob\PartTimeJobServer\src\main\resources" />
+      <recent name="E:\0000-2024-Project\2024-0002-学生兼职\PartTimeJob\PartTimeJobServer\WebContent" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zhou.jianzhi.mapper" />
+      <recent name="com.zhou.jianzhi.service.impl" />
+      <recent name="com.zhou.jianzhi.service" />
+      <recent name="com.zhou.jianzhi.controller.web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+        <option value="js.build_tools.npm" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.JianzhiApplication">
+    <configuration name="JianzhiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="PartTimeJobServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhou.jianzhi.JianzhiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Manage-后台管理" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/PartTimeJobManage/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Porta-前台管理" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/PartTimeJobPortal/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="webim-聊天" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/PartTimeJobIm/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.Manage-后台管理" />
+      <item itemvalue="npm.Porta-前台管理" />
+      <item itemvalue="npm.webim-聊天" />
+      <item itemvalue="Spring Boot.JianzhiApplication" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5dedb731-ea48-4db1-b879-ad6ad659c620" name="Changes" comment="" />
+      <changelist id="84155485-b725-4ad0-84cc-5d0b058e9dd9" name="noChanges" comment="" />
+      <created>1727534312591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727534312591</updated>
+      <workItem from="1727534316744" duration="413000" />
+      <workItem from="1727535115544" duration="4128000" />
+      <workItem from="1728353011061" duration="4079000" />
+      <workItem from="1728439044545" duration="8991000" />
+      <workItem from="1728519844231" duration="12017000" />
+      <workItem from="1728628902452" duration="2339000" />
+      <workItem from="1728631393834" duration="1631000" />
+      <workItem from="1728634390871" duration="1636000" />
+      <workItem from="1728725915596" duration="974000" />
+      <workItem from="1728762258503" duration="3942000" />
+      <workItem from="1728769975170" duration="8022000" />
+      <workItem from="1728887707741" duration="11461000" />
+      <workItem from="1728909778164" duration="655000" />
+      <workItem from="1728953502821" duration="27335000" />
+      <workItem from="1729067951600" duration="4321000" />
+      <workItem from="1729136064326" duration="4401000" />
+      <workItem from="1729150587869" duration="3163000" />
+      <workItem from="1729155307399" duration="3780000" />
+      <workItem from="1729215206569" duration="802000" />
+      <workItem from="1729216261416" duration="730000" />
+      <workItem from="1729221956508" duration="166000" />
+      <workItem from="1729223425976" duration="9996000" />
+      <workItem from="1729352555401" duration="3185000" />
+      <workItem from="1729399816330" duration="393000" />
+      <workItem from="1729432960938" duration="679000" />
+      <workItem from="1729577422128" duration="2742000" />
+      <workItem from="1729594073543" duration="1454000" />
+      <workItem from="1729641882112" duration="1633000" />
+      <workItem from="1729643548724" duration="71000" />
+      <workItem from="1729643628757" duration="2257000" />
+      <workItem from="1729757645803" duration="22000" />
+      <workItem from="1730099708716" duration="748000" />
+      <workItem from="1730246385044" duration="4744000" />
+      <workItem from="1730290640732" duration="938000" />
+      <workItem from="1730292436772" duration="240000" />
+      <workItem from="1730293236292" duration="139000" />
+      <workItem from="1730851024443" duration="154000" />
+      <workItem from="1730851293703" duration="571000" />
+      <workItem from="1730851877344" duration="328000" />
+      <workItem from="1730852251622" duration="1687000" />
+      <workItem from="1730896546012" duration="384000" />
+      <workItem from="1730896957772" duration="985000" />
+      <workItem from="1730897967554" duration="598000" />
+      <workItem from="1731116044291" duration="74000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1728521360816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728521360816</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1728521863611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728521863611</updated>
+    </task>
+    <task id="LOCAL-00003">
+      <created>1728544381979</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728544381979</updated>
+    </task>
+    <task id="LOCAL-00004">
+      <created>1728890646212</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728890646212</updated>
+    </task>
+    <task id="LOCAL-00005">
+      <created>1728896393651</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728896393651</updated>
+    </task>
+    <task id="LOCAL-00006">
+      <created>1728984964020</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728984964020</updated>
+    </task>
+    <task id="LOCAL-00007">
+      <created>1729006127515</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729006127515</updated>
+    </task>
+    <task id="LOCAL-00008">
+      <created>1729238479384</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729238479384</updated>
+    </task>
+    <task id="LOCAL-00009">
+      <created>1729238572187</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729238572187</updated>
+    </task>
+    <task id="LOCAL-00010">
+      <created>1729241757177</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729241757177</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
