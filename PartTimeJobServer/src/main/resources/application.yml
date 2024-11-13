@@ -90,15 +90,6 @@ wx:
     appsecret:
 
 
-# OSS相关配置信息
-aliyun:
-  oss:
-    endpoint: oss-cn-beijing.aliyuncs.com
-    downloadEndPoint: oss-cn-beijing.aliyuncs.com
-    accessKeyId: LTAI5tJdGT7caZzuRZpZQJu9
-    accessKeySecret: umgrNcWy8KFYmVhGRY2MrEqJQHZXty
-    region: oss-cn-beijing
-    bucket: testpartpimejob
 
 
 
